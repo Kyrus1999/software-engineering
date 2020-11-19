@@ -2,25 +2,20 @@
 layout: default
 title : Woche 6
 ---
-# Testplan template
-
-*Dieses Template ist eine Adaption des von der Uni Bremen vorgeschlagenen [Testplans (Softwareprojekt 2009/10)](http://www.informatik.uni-bremen.de/st/Lehre/swp0910/beispiele/testplan.pdf). Sie finden darin auch detailliertere Beschreibungen der einzelnen Abschnitte.*
+# Testplan
 
 
-| Version | Projektname | Autor  | Status | Datum | Kommentar |
-| ------- | ----- | ------ | ------ | ----- | --------- |
-|  0.1    |  Name   | Name | in Bearbeitung | 01.01.1970 | |
 
 
-# 1. Einführung
+## 1. Einführung
 
 Kurze Beschreibung des Projekts/Features.
 
-## 1.1 Zweck
+### 1.1 Zweck
 
 Wozu dient das Dokument und an wen richtet es sich (Kunde, Internes Testteam, ...)
 
-## 1.2 Beziehung zu anderen Dokumenten
+### 1.2 Beziehung zu anderen Dokumenten
 
 Hier kann auf andere Dokumente referenziert werden die
 für den Testplan relevant sind. Das kann zum Beispiel eine Anforderungsspezifikation oder ein Designdokument sein.
@@ -53,7 +48,7 @@ Hier können sie angeben wie sie diese Tests durchführen möchten. Wir empfehle
 Wie werden die funktionalen Anforderungen getestet?
 Beispielsweise können sie angeben, dass die Funktionalität via Graphischer Benutzeroberfläche getestet wird.
 
-### 5 Hardware und Softwareanforderungen
+## 5 Hardware und Softwareanforderungen
 
 Was gibt es für spezielle Hardware oder Softwareanforderungen um die Tests durchzuführen?
 
